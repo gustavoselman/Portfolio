@@ -7,7 +7,7 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+      "I'm a Software Engineering student at Pontificia Universidad Católica de Chile. I'm passionate about technology, and I love learning new things 🚀. Currently, I'm studying informatics at Universitat Politècnica de València (UPV). I'm currently in my final courses of the degree, and I'll be graduating in 2024. Additionally, I have been a teaching assistant for Introduction to Programming, Computer Exploration, and Advanced Programming courses at Pontificia Universidad Católica de Chile.",
     github: "https://github.com/gustavoselman",
     resume:
       "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
