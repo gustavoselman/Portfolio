@@ -2,18 +2,18 @@ import React from 'react';
 import { DiCssdeck } from 'react-icons/di';
 import { FaBars } from 'react-icons/fa';
 import { useTheme } from 'styled-components';
-import { 
-  Nav,
-  NavContainer,
-  NavLogo,
-  Span,
-  MobileIcon,
-  NavItems,
-  NavLink,
-  ButtonContainer,
-  GithubButton,
-  MobileMenu,
-  MobileLink
+import {
+	Nav,
+	NavContainer,
+	NavLogo,
+	Span,
+	MobileIcon,
+	NavItems,
+	NavLink,
+	ButtonContainer,
+	GithubButton,
+	MobileMenu,
+	MobileLink
 } from './NavbarStyledComponent';
 
 const Navbar = () => {
@@ -63,7 +63,7 @@ const Navbar = () => {
 						<MobileLink href='#education' onClick={() => {
 							setIsOpen(!isOpen)
 						}}>Education</MobileLink>
-            <GithubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href="/" target="_blank">Github Profile</GithubButton>
+						<GithubButton style={{ padding: '10px 16px', background: `${theme.primary}`, color: 'white', width: 'max-content' }} href="/" target="_blank">Github Profile</GithubButton>
 					</MobileMenu>
 				)
 			}
